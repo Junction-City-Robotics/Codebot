@@ -1,0 +1,20 @@
+* = In Drive Constants
+
+Drive Constants:
+	*Ticks Per Rev: 537.7
+	*Max RPM: 312
+	*Wheel Radius (in): 3.78
+	*Gear Ratio: 1
+	*Track Width (in): 15.83
+	Max Vel: 123.5
+
+Odometry Pod Constants:
+    Ticks per rev: 2000
+    Wheel Radius (in): 1.89
+    Gear Ratio: 1
+
+Config Info:
+    Front Left:
+    Front Right:
+    Back Left:
+    Front Left:
